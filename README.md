@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chad Netwig, @ChadNetwig
-- 👀 I’m interested in aritifical intellegence with respect music composition
+- 👀 I’m interested in aritifical intellegence with respect to music composition
 - 🌱 I’m currently learning how to integreate Python and C++ into the same project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
