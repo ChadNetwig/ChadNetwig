@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chad Netwig (@ChadNetwig)
 
-I'm a seasoned software engineer with a Master's in Computer Science from ASU's Ira A. Fulton Schools of Engineering and over 20 years of experience in systems architecture, software development, and cybersecurity. I'm passionate about solving complex problems with elegant technical solutions — and I'm currently exploring how artificial intelligence can be applied in creative domains like music composition.
+I’m a seasoned software engineer, IT consultant, and systems architect with a Master’s in Computer Science from ASU’s Ira A. Fulton Schools of Engineering and over 20 years of experience in systems architecture, software development, and cybersecurity. I’m passionate about solving complex problems through elegant technical solutions — and I’m currently exploring how artificial intelligence can be applied in creative domains like music composition.
 
 ## 🛠️ Technical Skills
 
