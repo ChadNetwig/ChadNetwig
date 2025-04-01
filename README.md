@@ -21,13 +21,18 @@ I'm a seasoned software engineer with a Master's in Computer Science from ASU's 
 
 ## 🚀 Featured Projects
 
-- 🔧 [**ChadRepository**](https://github.com/ChadNetwig/ChadRepository) – Code from MCS coursework including C++, systems programming, and more  
-- 🎶 [**AI Music Composer**](https://github.com/ChadNetwig/AI-Music-Composer) – Experimental AI-based system for generating original musical compositions  
-- 🌐 [**Best-Teks Site Repo**](https://github.com/ChadNetwig/Best-Teks) – E-commerce platform for a nationwide IT repair service
+- 💡 [**ChadRepository**](https://github.com/ChadNetwig/ChadRepository)  
+  A C++ dictionary hacking project developed during my undergraduate studies, demonstrating applied data structures and algorithmic logic.
+
+- 🌐 [**learn-how-to-build-a-mean-stack-application**](https://github.com/ChadNetwig/learn-how-to-build-a-mean-stack-application)  
+  A full-stack JavaScript tutorial project for building and connecting a backend API to an Angular 5 front-end app using the MEAN stack.
+
+- ⚙️ [**learn-angular-from-scratch-step-by-step**](https://github.com/ChadNetwig/learn-angular-from-scratch-step-by-step)  
+  A complete Angular development walkthrough covering core Angular concepts, Angular Material components, and app-building best practices.
 
 ## 🧠 Education
 
-- **Master of Computer Science**, Arizona State University – Ira A. Fulton Schools of Engineering  
+- **Master of Computer Science**, Arizona State University – Ira A. Fulton Schools of Engineering (GPA 4.0, Graduated With Distinction)
 - **B.S. in Computer Science**, Southern New Hampshire University (GPA 4.0, President's List)  
 - Plus multiple associate degrees in Business, Mathematics & Science, and Behavioral Science
 
