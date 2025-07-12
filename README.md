@@ -2,6 +2,8 @@
 
 I’m a seasoned software engineer, IT consultant, and systems architect with a Master’s in Computer Science from ASU’s Ira A. Fulton Schools of Engineering and over 20 years of experience in systems architecture, software development, and cybersecurity. I’m passionate about solving complex problems through elegant technical solutions — and I’m currently exploring how artificial intelligence can be applied in creative domains like music composition.
 
+---
+
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, Java, C/C++, Perl, Bash, SQL, JavaScript, PHP, HTML/CSS
@@ -13,28 +15,36 @@ I’m a seasoned software engineer, IT consultant, and systems architect with a 
 - **AI & Visualization:** Jupyter, D3.js, Mesa (agent-based modeling), Clingo, Protégé
 - **Systems & Networking:** Unix/Linux admin, VLANs, VPNs, Cisco IOS, Sendmail, network monitoring
 
+---
+
 ## 🎯 Current Focus
 
 - Integrating Python and C++ for cross-language performance optimization
 - AI-driven music composition and emergent behavior modeling with Mesa
 - Designing secure, scalable backend systems with AWS
 
+---
+
 ## 🚀 Featured Projects
 
-- 💡 [**ChadRepository**](https://github.com/ChadNetwig/ChadRepository)  
-  A C++ dictionary hacking project developed during my undergraduate studies, demonstrating applied data structures and algorithmic logic.
+- 🧠 [**qlearning-agent-treasure-hunt**](https://github.com/ChadNetwig/qlearning-agent-treasure-hunt)  
+  Reinforcement learning agent using Q-learning and neural networks to solve a grid-based treasure hunt pathfinding problem. Includes deep Q-learning implementation and visual training output.
 
-- 🌐 [**learn-how-to-build-a-mean-stack-application**](https://github.com/ChadNetwig/learn-how-to-build-a-mean-stack-application)  
-  A full-stack JavaScript tutorial project for building and connecting a backend API to an Angular 5 front-end app using the MEAN stack.
+- 🌐 [**travlr-mean-stack-app**](https://github.com/ChadNetwig/travlr-mean-stack-app)  
+  Full-stack travel booking application built with MongoDB, Express.js, Angular, and Node.js. Implements RESTful APIs, MVC architecture, and a responsive single-page interface.
 
-- ⚙️ [**learn-angular-from-scratch-step-by-step**](https://github.com/ChadNetwig/learn-angular-from-scratch-step-by-step)  
-  A complete Angular development walkthrough covering core Angular concepts, Angular Material components, and app-building best practices.
+- 📱 [**inventory-management-android-app**](https://github.com/ChadNetwig/inventory-management-android-app)  
+  Android app for managing inventory with SQLite database integration, login authentication, and a clean material design UI.
+
+---
 
 ## 🧠 Education
 
 - **Master of Computer Science**, Arizona State University – Ira A. Fulton Schools of Engineering (GPA 4.0, Graduated With Distinction)
 - **B.S. in Computer Science**, Southern New Hampshire University (GPA 4.0, President's List)  
 - Plus multiple associate degrees in Business, Mathematics & Science, and Behavioral Science
+
+---
 
 ## 🤝 Let's Connect
 
