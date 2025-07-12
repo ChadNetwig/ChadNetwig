@@ -27,6 +27,9 @@ I’m a seasoned software engineer, IT consultant, and systems architect with a 
 
 ## 🚀 Featured Projects
 
+- 🛡️ [**advanced-network-security-projects**](https://github.com/ChadNetwig/advanced-network-security-projects)  
+  Portfolio of advanced network cybersecurity projects demonstrating packet filtering, SDN-based firewalls, DoS mitigation, and machine learning anomaly detection. Includes complete scripts, configuration files, and evaluation results.
+
 - 🧠 [**qlearning-agent-treasure-hunt**](https://github.com/ChadNetwig/qlearning-agent-treasure-hunt)  
   Reinforcement learning agent using Q-learning and neural networks to solve a grid-based treasure hunt pathfinding problem. Includes deep Q-learning implementation and visual training output.
 
