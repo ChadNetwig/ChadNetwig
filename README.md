@@ -5,7 +5,7 @@ I’m a seasoned software engineer, IT consultant, and systems architect with a 
 ## 🛠️ Technical Skills
 
 - **Languages:** Python, Java, C/C++, Perl, Bash, SQL, JavaScript, PHP, HTML/CSS
-- **Web Development:** MEAN stack, LAMP-based systems
+- **Web Development:** MEAN & MERN stacks, LAMP-based systems
 - **Databases:** PostgreSQL, MongoDB, DynamoDB, Neo4j
 - **Big Data:** Spark, Hadoop
 - **Cloud & DevOps:** AWS (EC2, Lambda, API Gateway, S3, CloudWatch), Docker, microservices architecture
